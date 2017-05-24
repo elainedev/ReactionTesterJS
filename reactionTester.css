@@ -1,0 +1,9 @@
+#shape {
+            background-color: black;
+            display: none;
+            position: relative;
+        }
+        
+body {
+            font-family: sans-serif;
+        }
